@@ -4,7 +4,7 @@
 NAME = "ZenPacks.Nova.Cisco.Mibs"
 VERSION = "1.1"
 AUTHOR = "Ryan Matte"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Cisco']
 PACKAGES = ['ZenPacks', 'ZenPacks.Nova', 'ZenPacks.Nova.Cisco', 'ZenPacks.Nova.Cisco.Mibs']
 INSTALL_REQUIRES = []
